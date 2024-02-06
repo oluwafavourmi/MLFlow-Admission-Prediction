@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/TeeFaith/Desktop/ML%20PROJECTS/ML%20Flow%20Admission/mlruns/0/0bad2a6bbcbb48649555def996aa2b10/artifacts
+end_time: 1707186978554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bad2a6bbcbb48649555def996aa2b10
+run_name: handsome-crab-897
+run_uuid: 0bad2a6bbcbb48649555def996aa2b10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707186918257
+status: 3
+tags: []
+user_id: TeeFaith

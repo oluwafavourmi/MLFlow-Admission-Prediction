@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/TeeFaith/Desktop/ML%20PROJECTS/ML%20Flow%20Admission/mlruns/0/7781a8c9dc2f499fa12a909376ddee54/artifacts
+end_time: 1707183152217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7781a8c9dc2f499fa12a909376ddee54
+run_name: bustling-trout-343
+run_uuid: 7781a8c9dc2f499fa12a909376ddee54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707183050424
+status: 3
+tags: []
+user_id: TeeFaith
